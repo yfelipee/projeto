@@ -1,0 +1,4 @@
+Gerente
+Diretor
+Analista
+Estagiário
